@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dirtyprototyper
-- 👀 I’m interested in CI/CD (K8, Docker, AWS, Spinnaker) and Chaos Engineering
+- 👀 I’m interested in CI/CD (jenkins,K8, Docker, AWS, Spinnaker) and Chaos Engineering
 - 🌱 I’m currently learning Chaos Engineering
 - 📫 Email me at dirtyprototyping@gmail.com for any questions or queries
 
